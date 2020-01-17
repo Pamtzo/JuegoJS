@@ -1,0 +1,43 @@
+body{
+    background: salmon;
+}
+
+#Red{
+    position: absolute;
+    left: 30%;
+    top: 25%;
+    width: 20%;
+    height: 25%;
+    background: red;
+    border-top-left-radius: 100%;
+}
+
+#Blue{
+    position: absolute;
+    left: 30%;
+    top: 50%;
+    width: 20%;
+    height: 25%;
+    background: blue;
+    border-bottom-left-radius: 100%
+}
+
+#Green{
+    position: absolute;
+    left: 50%;
+    top: 25%;
+    width: 20%;
+    height: 25%;
+    background: green;
+    border-top-right-radius: 100%;
+}
+
+#Yellow{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 20%;
+    height: 25%;
+    background: yellow;
+    border-bottom-right-radius: 100%;
+}
