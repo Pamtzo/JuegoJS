@@ -41,3 +41,22 @@ body{
     background: yellow;
     border-bottom-right-radius: 100%;
 }
+
+#Boton{
+    position: relative;
+    top: 40%;
+    left: 30%;
+    width: 40%;
+    height: 20%;
+    background: white;
+    display: table;
+    border-style: solid;
+    border-width: thick;
+}
+#Text{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 500%;
+    color: orangered;
+}
