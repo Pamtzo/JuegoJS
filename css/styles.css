@@ -2,7 +2,7 @@ body{
     background: salmon;
 }
 
-#Red{
+.Red{
     position: absolute;
     left: 30%;
     top: 25%;
@@ -12,7 +12,7 @@ body{
     border-top-left-radius: 100%;
 }
 
-#Blue{
+.Blue{
     position: absolute;
     left: 30%;
     top: 50%;
@@ -22,7 +22,7 @@ body{
     border-bottom-left-radius: 100%
 }
 
-#Green{
+.Green{
     position: absolute;
     left: 50%;
     top: 25%;
@@ -32,7 +32,7 @@ body{
     border-top-right-radius: 100%;
 }
 
-#Yellow{
+.Yellow{
     position: absolute;
     left: 50%;
     top: 50%;
@@ -51,4 +51,12 @@ body{
     background: white;
     font-size: 500%;
     color: orangered;
+}
+
+.light{
+    background: white;
+}
+
+.hide{
+    display: none;
 }
