@@ -49,14 +49,6 @@ body{
     width: 40%;
     height: 20%;
     background: white;
-    display: table;
-    border-style: solid;
-    border-width: thick;
-}
-#Text{
-    display: table-cell;
-    vertical-align: middle;
-    text-align: center;
     font-size: 500%;
     color: orangered;
 }
